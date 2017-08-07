@@ -1,0 +1,55 @@
+body {
+	 background-image: url("/assets/images/the-burger.jpg");
+}
+
+.container {
+	width : "90%";
+	border: 2px solid #fff;
+	margin-top: 15px;
+	box-shadow: 15px 12px 10px #1f2021;
+}
+
+#heading {
+	background-color: #edd75c;
+	color:black;
+	padding: 5px;
+	text-align: center;
+	font-family: Artifika;
+
+}
+
+#heading h1 {
+	font-size: 40px;
+}
+
+#panels	{
+	margin-top: 8px;
+}
+
+#new-burger-name {
+	margin-bottom: 10px;
+}
+
+.panel-success .panel-heading {
+  background: #129107;
+  color:#fff;
+  font-size: 15px;
+  font-family: Artifika;
+  text-align: center;
+}
+
+.panel-danger .panel-heading {
+  background: #b7321b;
+  color:#fff;
+  font-size: 15px;
+  font-family: Artifika;
+  text-align: center;
+}
+
+.panel-primary .panel-heading {
+  
+  color:#fff;
+  font-size: 15px;
+  font-family: Artifika;
+  text-align: center;
+}
